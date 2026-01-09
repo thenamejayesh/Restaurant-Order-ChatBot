@@ -45,7 +45,7 @@ n8n-restaurant-order-chatbot/
 <img width="400" height="439" alt="Screenshot 2026-01-09 175840" src="https://github.com/user-attachments/assets/ffa1b679-5745-4d24-9de9-807ef18a3a45" />
 
 # Before | # After Order                                                               
-<img width="400" height="700" alt="Screenshot 2026-01-09 184300" src="https://github.com/user-attachments/assets/3b315d55-0eb9-4b26-a3cf-07524198629f" /><img width="400" height="700" alt="Screenshot 2026-01-09 182333" src="https://github.com/user-attachments/assets/3a3b14e4-fa94-48c3-b484-db0622fbde17" />
+<img width="459" height="750" alt="Screenshot 2026-01-09 184300" src="https://github.com/user-attachments/assets/3b315d55-0eb9-4b26-a3cf-07524198629f" /><img width="459" height="750" alt="Screenshot 2026-01-09 182333" src="https://github.com/user-attachments/assets/3a3b14e4-fa94-48c3-b484-db0622fbde17" />
 
 <img width="900" height="432" alt="Screenshot 2026-01-09 175926" src="https://github.com/user-attachments/assets/819b0980-6064-464b-968e-bc802c0c3612" />
 
